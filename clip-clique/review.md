@@ -41,7 +41,7 @@ While the semantic relationships and spatial relationships are called edges. But
 
 ### For **compatibility graphs**, let's see the image below:
 
-![St. Mary's Church](images/correspondence.jpg)
+![St. Mary's Church](images/correspondence.png)
 *Image by [Cambridge Landmarks Dataset](https://paperswithcode.com/dataset/cambridge-landmarks)*
 
 Both of the images actually share the same object but in a different view. So, we can say:
